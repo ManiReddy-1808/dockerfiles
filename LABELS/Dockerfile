@@ -2,5 +2,5 @@
 FROM almalinux:9
 LABEL COURSE="Docker" \
       TRAINER="ManiKanta" \
-      DURATION="10HRS" \
+      DURATION="12HRS" \
       AUTHOR="joindevops"
